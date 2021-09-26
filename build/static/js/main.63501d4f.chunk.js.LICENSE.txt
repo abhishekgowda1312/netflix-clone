@@ -1,0 +1,5 @@
+//! this is how the request is generated -> https://api.themoviedb.org/3/discover/tv?api_key=${API_KEY}&with_networks=213
+
+//!add scroll listener to show the transition
+
+//!movies state
